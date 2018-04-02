@@ -1,0 +1,23 @@
+{
+  "name": "micro-test",
+  "version": "1.0.0",
+  "description": "POC para implementar microservicios con el framework micro",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianbravo/micro-test.git"
+  },
+  "author": "Cristian Bravo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristianbravo/micro-test/issues"
+  },
+  "homepage": "https://github.com/cristianbravo/micro-test#readme",
+  "dependencies": {
+    "micro": "^9.1.4"
+  }
+}
